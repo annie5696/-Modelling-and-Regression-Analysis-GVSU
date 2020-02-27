@@ -7,6 +7,10 @@ output:
     keep_md: yes
 ---
 
+## Modeling and Regression Analysis
+
+Used Grand Valley State University’s Allendale student on campus datasets to understanding pattern and exploratory visualizations for predictor variable, usages of indicator variables for categorical values, implementing the best subsets approach to model selection based on the different criteria (adjusted R square, significance gain, p-value) using R.
+
 
 Loading all the necessary libraries. options(warn = -1) will not show warning in the output. SuppressMessages function will suppress the messages for loading libraries.
 
